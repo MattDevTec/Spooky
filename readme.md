@@ -2,7 +2,7 @@
 Find more themes: https://github.com/JulianPrieber/llc-themes
                                                                                                                                                                          
 *	Theme Name: Spooky
-*	Theme Version: 1.4
+*	Theme Version: 1.5
 *	Theme Date: 2022-05-18
 *	Theme Author: JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/JulianPrieber
